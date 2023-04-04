@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.box {
+    background-color: #d1f8bf;
+    padding: 0 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}

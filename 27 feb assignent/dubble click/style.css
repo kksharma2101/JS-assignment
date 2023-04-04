@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.dblClick {
+  background-color: #1d11c1;
+  font-size: 30px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 700;
+}
